@@ -26,7 +26,7 @@ https://github.com/SecondSLoT/PixabayGalleryKt
 https://github.com/SecondSLoT/DevelopersLife
 
 ### Exeperience
-I work at "Information sattelite systems" Reshentev Company for 11 years as design engineer. I have experience in business communication with collegues and with business partners.
+I work at "Information sattelite systems" Reshentev Company, Zheleznogorks, Krasnoyarsiy Kray for 11 years as a design engineer. I have experience in business communication with collegues and with business partners.
 
 ### Education
 I've graduated from Siberian Federal University (Krasnoyarsk, Russia) in 2009 with specialization of Thermal Physics.
